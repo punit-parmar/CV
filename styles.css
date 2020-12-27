@@ -1,0 +1,26 @@
+body {
+  background-color: #cae4db;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: thick;
+  border-color: grey;
+}
+h1 {
+  color: #00303f;
+}
+h3 {
+  color: #00303f;
+}
+ td {
+   color: #00303f;
+ }
+
+ ul {
+   color: #00303f;
+ }
+ p {
+   color: #00303f;
+ }
